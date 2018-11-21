@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NewBeeWealthLoan:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="NewBeeWealthLoan.war">
+      <element id="artifact" artifact-name="NewBeeWealthLoan:war exploded" />
+    </root>
+  </artifact>
+</component>
